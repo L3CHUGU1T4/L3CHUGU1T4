@@ -28,6 +28,21 @@
 </p>
 
 
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Operative Systems ⌨️</h2></summary>
+  </ul>
+</div>
+
+
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=kali,apple,windows" />
+  </a>
+</p>
+
+
 <!-- Connect with me -->
 <!--h2 without bottom border-->
 <div id="user-content-toc">
