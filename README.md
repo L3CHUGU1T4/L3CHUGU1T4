@@ -38,7 +38,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=kali,apple,windows,raspberry" />
+    <img src="https://skillicons.dev/icons?i=kali,apple,windows,raspberrypi" />
   </a>
 </p>
 
