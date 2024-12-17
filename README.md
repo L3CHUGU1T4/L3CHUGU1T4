@@ -10,7 +10,7 @@
 - 🏫 I’m currently learning Computer Technologys
 - 💻 I am a competitive programmer at ITESM Campus Toluca
 - 👨🏽‍💻 Always learning new things
-- 📱 You can visit [MY WEBSITE](#)
+
 
 <!--h1 without bottom border-->
 <div id="user-content-toc">
