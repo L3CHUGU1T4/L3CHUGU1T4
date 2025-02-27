@@ -56,3 +56,7 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/leobardo-de-jes%C3%BAs-carbajal-876078300/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=l3chugu1t4&show_icons=true&locale=en&layout=compact" alt="l3chugu1t4" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=l3chugu1t4&show_icons=true&locale=en" alt="l3chugu1t4" /></p>
+
