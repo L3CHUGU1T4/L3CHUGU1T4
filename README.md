@@ -6,8 +6,11 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=E5F72E&center=true&random=false&width=435&lines=Computer+Technology+Student;Always+learning+new+things;Sharing+Knowledge" alt="Typing SVG" /></a>
 </p>
 
-- 🔭 I’m currently working on Personal Projects
-- 🏫 I’m currently learning Computer Technologys
+- 🔭 I’m currently working on [Cretia](cretia.app)
+
+- 🌱 I’m currently learning **React Native and Computer Vision**
+
+- 👨‍💻 All of my projects are available at [l3chugu1t4.com](l3chugu1t4.com)
 - 💻 I am a competitive programmer at ITESM Campus Toluca
 - 👨🏽‍💻 Always learning new things
 
