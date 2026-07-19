@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/terminal-card.svg" width="100%">
+  <img src="terminal-card.svg" width="100%">
 </div>
 
 <div align="center">
