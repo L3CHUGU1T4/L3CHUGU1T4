@@ -43,31 +43,24 @@
 <text x="44" y="313.4" fill="#d0d0d0" font-size="8.6" xml:space="preserve">⠀⠀⠀⠀⠀⠀⢂⠀⠀⠀⠀⠀⠀⡿⠽⢿⣿⠃⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠐⠆⢀⠠⠀⠀⠀⠀⠀⠀</text>
 <text x="44" y="322.8" fill="#d0d0d0" font-size="8.6" xml:space="preserve">⠀⠀⠀⠀⠀⠀⠀⠁⠀⠀⠀⠀⠀⣝⢷⣶⡿⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⡡⢂⠔</text>
 <text x="498" y="124" font-size="17" font-weight="600" fill="#ffffff">l3chugu1t4<tspan fill="#8a8a8a" font-weight="400">@github</tspan></text>
-<text x="498" y="167" font-size="13.5" fill="#8a8a8a">Now</text>
-<text x="628" y="167" font-size="13.5" fill="#e6e6e6">Computer Technology Student</text>
-<text x="628" y="194" font-size="13.5" fill="#e6e6e6">@ ITESM Campus Toluca</text>
-<text x="498" y="221" font-size="13.5" fill="#8a8a8a">Also</text>
-<text x="628" y="221" font-size="13.5" fill="#e6e6e6">Competitive Programmer</text>
-<text x="498" y="248" font-size="13.5" fill="#8a8a8a">Focus</text>
-<text x="628" y="248" font-size="13.5" fill="#e6e6e6">React Native, Computer Vision</text>
-<text x="498" y="275" font-size="13.5" fill="#8a8a8a">Editor</text>
-<text x="628" y="275" font-size="13.5" fill="#e6e6e6">VS Code</text>
-<text x="498" y="302" font-size="13.5" fill="#8a8a8a">Langs</text>
-<text x="628" y="302" font-size="13.5" fill="#e6e6e6">Spanish / English</text>
-<text x="498" y="339" font-size="13" fill="#9aa0a6">— Stack</text>
-<line x1="568" y1="335" x2="952" y2="335" stroke="#262626" stroke-width="1"/>
-<text x="498" y="362" font-size="13.5" fill="#8a8a8a">Frontend</text>
-<text x="628" y="362" font-size="13.5" fill="#e6e6e6">React, JS, HTML/CSS</text>
-<text x="498" y="389" font-size="13.5" fill="#8a8a8a">Backend</text>
-<text x="628" y="389" font-size="13.5" fill="#e6e6e6">Python, Django, MySQL</text>
-<text x="498" y="416" font-size="13.5" fill="#8a8a8a">Systems</text>
-<text x="628" y="416" font-size="13.5" fill="#e6e6e6">C, C++, C#</text>
-<text x="498" y="443" font-size="13.5" fill="#8a8a8a">Mobile</text>
-<text x="628" y="443" font-size="13.5" fill="#e6e6e6">Swift</text>
-<text x="498" y="480" font-size="13" fill="#9aa0a6">— Links</text>
-<line x1="568" y1="476" x2="952" y2="476" stroke="#262626" stroke-width="1"/>
-<text x="498" y="503" font-size="13.5" fill="#8a8a8a">Portfolio</text>
-<text x="628" y="503" font-size="13.5" fill="#e6e6e6">l3chugu1t4.com</text>
-<text x="498" y="530" font-size="13.5" fill="#8a8a8a">GitHub</text>
-<text x="628" y="530" font-size="13.5" fill="#e6e6e6">github.com/l3chugu1t4</text>
+<text x="498" y="167" font-size="13" fill="#9aa0a6">— Stack</text>
+<line x1="568" y1="163" x2="952" y2="163" stroke="#262626" stroke-width="1"/>
+<text x="498" y="190" font-size="13.5" fill="#8a8a8a">Frontend</text>
+<text x="628" y="190" font-size="13.5" fill="#e6e6e6">React, JS, HTML/CSS</text>
+<text x="498" y="217" font-size="13.5" fill="#8a8a8a">Backend</text>
+<text x="628" y="217" font-size="13.5" fill="#e6e6e6">Python, Django, MySQL</text>
+<text x="498" y="244" font-size="13.5" fill="#8a8a8a">Systems</text>
+<text x="628" y="244" font-size="13.5" fill="#e6e6e6">C, C++, C#</text>
+<text x="498" y="271" font-size="13.5" fill="#8a8a8a">Mobile</text>
+<text x="628" y="271" font-size="13.5" fill="#e6e6e6">Swift</text>
+<text x="498" y="308" font-size="13" fill="#9aa0a6">— Links</text>
+<line x1="568" y1="304" x2="952" y2="304" stroke="#262626" stroke-width="1"/>
+<text x="498" y="331" font-size="13.5" fill="#8a8a8a">Portfolio</text>
+<text x="628" y="331" font-size="13.5" fill="#e6e6e6">l3chugu1t4.com</text>
+<text x="498" y="358" font-size="13.5" fill="#8a8a8a">GitHub</text>
+<text x="628" y="358" font-size="13.5" fill="#e6e6e6">github.com/l3chugu1t4</text>
+<text x="498" y="385" font-size="13.5" fill="#8a8a8a">LinkedIn</text>
+<text x="628" y="385" font-size="13.5" fill="#e6e6e6">in/leobardo-dejesúscarbajal</text>
+<text x="498" y="412" font-size="13.5" fill="#8a8a8a">X</text>
+<text x="628" y="412" font-size="13.5" fill="#e6e6e6">@l3chugu1t4</text>
 </svg>
