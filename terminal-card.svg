@@ -1,0 +1,73 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 520" width="1000" height="520" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">
+<rect x="0" y="0" width="1000" height="520" rx="14" fill="#0d0d0d"/>
+<text x="24" y="34" fill="#888888" font-size="14">l3chugu1t4@github ~ $ whoami</text>
+<g>
+<rect x="24" y="60" width="430" height="436" rx="10" fill="#111111" stroke="#262626" stroke-width="1"/>
+<rect x="24" y="60" width="430" height="34" rx="10" fill="#161616"/>
+<rect x="24" y="84" width="430" height="10" fill="#161616"/>
+<circle cx="42" cy="77.0" r="5" fill="#ff5f56"/>
+<circle cx="60" cy="77.0" r="5" fill="#ffbd2e"/>
+<circle cx="78" cy="77.0" r="5" fill="#27c93f"/>
+<text x="239.0" y="81.0" fill="#888888" font-size="12" text-anchor="middle">l3chugu1t4:~$ ./portrait.sh</text>
+</g>
+<g>
+<rect x="474" y="60" width="502" height="436" rx="10" fill="#111111" stroke="#262626" stroke-width="1"/>
+<rect x="474" y="60" width="502" height="34" rx="10" fill="#161616"/>
+<rect x="474" y="84" width="502" height="10" fill="#161616"/>
+<circle cx="492" cy="77.0" r="5" fill="#ff5f56"/>
+<circle cx="510" cy="77.0" r="5" fill="#ffbd2e"/>
+<circle cx="528" cy="77.0" r="5" fill="#27c93f"/>
+<text x="725.0" y="81.0" fill="#888888" font-size="12" text-anchor="middle">l3chugu1t4:~$ neofetch</text>
+</g>
+<text x="44" y="116.0" fill="#d0d0d0" font-size="8.6" xml:space="preserve">⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣠⡤⢋⣁⣂⠔⠛⣡⣤⣴⣮⣬⣭⣽⡿⢿⣬⣀⠀⢢⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</text>
+<text x="44" y="125.4" fill="#d0d0d0" font-size="8.6" xml:space="preserve">⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣴⠿⣷⣾⣿⣿⣽⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣿⠟⠉⠀⢈⠑⢂⠀⠀⠀⠀⠀⠀⠀⠀</text>
+<text x="44" y="134.8" fill="#d0d0d0" font-size="8.6" xml:space="preserve">⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠐⢡⡞⠛⠲⠿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠏⠁⠀⠀⠀⢸⣗⠠⠥⡀⠀⠀⠀⠀⠀⠀</text>
+<text x="44" y="144.2" fill="#d0d0d0" font-size="8.6" xml:space="preserve">⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⠀⢀⡴⣻⡇⠀⠀⠀⠀⠙⠻⠿⣿⣿⣿⣿⡟⠿⣿⣿⣿⡿⠁⠀⠀⠀⠀⠀⢸⣿⣷⣤⡙⠀⢀⠀⠀⠀⠀</text>
+<text x="44" y="153.6" fill="#d0d0d0" font-size="8.6" xml:space="preserve">⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡡⡂⣾⠾⣫⣷⠀⠀⠀⠀⠀⠀⠀⠀⠉⠁⠀⠀⠀⠀⠀⠈⠀⠀⠀⠀⠀⠀⠀⣸⣿⣿⣿⣝⣧⡌⢣⠀⠀⠀</text>
+<text x="44" y="163.0" fill="#d0d0d0" font-size="8.6" xml:space="preserve">⠀⠀⠀⠀⠀⠀⠀⠀⠀⠎⣘⣥⣷⣿⣿⣿⣇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⣿⣿⣿⣿⣿⣾⣄⠀⠀⠀</text>
+<text x="44" y="172.4" fill="#d0d0d0" font-size="8.6" xml:space="preserve">⠀⠀⠀⠀⠀⠀⠀⠀⡄⠞⣡⣿⣿⣿⣿⣿⣿⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢿⣿⣿⣿⣿⣿⣏⢻⡄⠀⠀</text>
+<text x="44" y="181.8" fill="#d0d0d0" font-size="8.6" xml:space="preserve">⠀⠀⠀⠀⠀⠀⠀⠜⡁⣰⣷⣿⣿⣿⣿⣿⡿⠀⠀⠀⢀⠤⠤⢤⣀⠀⠀⠀⠀⠀⢀⡴⠖⠒⠲⢤⡀⠀⠀⠘⣿⣿⣿⣿⣿⣿⡟⣝⠄⠂</text>
+<text x="44" y="191.2" fill="#d0d0d0" font-size="8.6" xml:space="preserve">⠀⠀⠀⠀⠀⠀⠀⠞⢠⣿⣿⣿⣿⣿⣿⣿⠁⠀⢀⡞⠁⠀⠀⠀⠹⡆⠀⠀⠀⠀⡾⠀⠀⠀⠀⠀⢻⡀⠀⠀⢹⣿⣿⣿⣿⣿⣷⡄⢷⠀</text>
+<text x="44" y="200.6" fill="#d0d0d0" font-size="8.6" xml:space="preserve">⠀⠀⠀⠀⠀⠀⢠⠂⢾⣿⣿⣿⣿⣿⣿⠇⠀⠀⢸⡅⠀⠀⠀⠀⣠⠃⠀⠀⠀⠀⢻⡀⠀⠀⠀⠀⢸⠇⠀⠀⠈⣿⣿⣿⣿⣿⣿⣷⢠⠀</text>
+<text x="44" y="210.0" fill="#d0d0d0" font-size="8.6" xml:space="preserve">⠀⠀⠀⠀⠀⠰⠈⡇⣿⣿⣿⣿⣟⣿⣯⡄⠀⠀⠀⠙⠶⠤⠤⠒⠁⠀⠀⠀⠀⠀⠀⠙⠦⠤⠤⠖⠋⠀⠀⠀⠠⣶⣿⣿⣿⣿⣿⣹⡇⠀</text>
+<text x="44" y="219.4" fill="#d0d0d0" font-size="8.6" xml:space="preserve">⠀⠀⠀⠀⠀⡀⠀⢿⣽⣿⣿⣿⡿⣻⣽⡷⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⡾⣾⣽⣻⣿⣿⣿⣻⡅⠀</text>
+<text x="44" y="228.8" fill="#d0d0d0" font-size="8.6" xml:space="preserve">⠀⠀⠀⠀⠀⠁⠀⣌⢻⢿⣿⣿⣿⣿⣿⣾⣿⣷⣄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣠⣼⣿⣿⣮⣿⣿⣿⣿⣿⢃⡄⠀</text>
+<text x="44" y="238.2" fill="#d0d0d0" font-size="8.6" xml:space="preserve">⠀⠀⠀⠀⠀⠀⠀⡛⢼⣼⢿⣿⣿⣿⣿⣿⣿⣿⣿⣷⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢺⣿⣿⣿⣿⣿⣿⣿⣿⣿⢏⡜⠁⠂</text>
+<text x="44" y="247.6" fill="#d0d0d0" font-size="8.6" xml:space="preserve">⠀⠀⠀⠀⠀⡄⢠⡁⠹⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⣿⣿⣿⣿⣿⣿⣿⣿⣣⣿⠀⠀⠀</text>
+<text x="44" y="257.0" fill="#d0d0d0" font-size="8.6" xml:space="preserve">⠀⠀⠀⠀⠀⠘⢆⢻⡛⣿⡻⣿⣿⣿⣿⣿⣿⣿⣿⡟⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⣿⣿⣿⣿⣿⣿⣿⣿⡟⢠⠀⡀</text>
+<text x="44" y="266.4" fill="#d0d0d0" font-size="8.6" xml:space="preserve">⠀⠀⠀⠀⡀⠐⠀⠳⣄⢻⣿⣿⣿⣿⣿⣿⣿⣿⣿⡗⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠘⣿⣿⣿⣿⣿⣿⡿⢃⣀⢁⠘⠀</text>
+<text x="44" y="275.8" fill="#d0d0d0" font-size="8.6" xml:space="preserve">⠀⠀⠀⠀⠈⠀⠀⠲⣨⡒⣍⣿⣿⣿⣿⣿⣿⣿⣿⠂⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠐⣿⣿⣿⣿⣿⣿⣶⡟⠁⢊⠀⠀</text>
+<text x="44" y="285.2" fill="#d0d0d0" font-size="8.6" xml:space="preserve">⠀⠀⠀⠀⠀⠀⠀⠀⢠⡽⠊⠉⠉⠉⠹⣿⣿⣿⡿⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠸⣿⣿⣿⣿⣿⣯⡴⠃⠀⠀⠀</text>
+<text x="44" y="294.6" fill="#d0d0d0" font-size="8.6" xml:space="preserve">⠀⠀⠀⠀⠀⠀⣀⠠⠊⠀⠀⠀⠀⠀⠀⣿⣿⣿⠇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢿⣿⣛⡽⢛⡭⠊⠀⠀⠀⠀</text>
+<text x="44" y="304.0" fill="#d0d0d0" font-size="8.6" xml:space="preserve">⠀⠀⠀⠀⠀⢀⠈⠏⠀⠀⠀⠀⠀⢠⣼⣿⣿⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠘⣯⢟⡴⠋⠀⠀⠀⠀⠀⠀</text>
+<text x="44" y="313.4" fill="#d0d0d0" font-size="8.6" xml:space="preserve">⠀⠀⠀⠀⠀⠀⢂⠀⠀⠀⠀⠀⠀⡿⠽⢿⣿⠃⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠐⠆⢀⠠⠀⠀⠀⠀⠀⠀</text>
+<text x="44" y="322.8" fill="#d0d0d0" font-size="8.6" xml:space="preserve">⠀⠀⠀⠀⠀⠀⠀⠁⠀⠀⠀⠀⠀⣝⢷⣶⡿⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⡡⢂⠔</text>
+<text x="498" y="124" font-size="17" font-weight="600" fill="#ffffff">l3chugu1t4<tspan fill="#8a8a8a" font-weight="400">@github</tspan></text>
+<text x="498" y="167" font-size="13.5" fill="#8a8a8a">Now</text>
+<text x="628" y="167" font-size="13.5" fill="#e6e6e6">Computer Technology Student</text>
+<text x="628" y="194" font-size="13.5" fill="#e6e6e6">@ ITESM Campus Toluca</text>
+<text x="498" y="221" font-size="13.5" fill="#8a8a8a">Also</text>
+<text x="628" y="221" font-size="13.5" fill="#e6e6e6">Competitive Programmer</text>
+<text x="498" y="248" font-size="13.5" fill="#8a8a8a">Focus</text>
+<text x="628" y="248" font-size="13.5" fill="#e6e6e6">React Native, Computer Vision</text>
+<text x="498" y="275" font-size="13.5" fill="#8a8a8a">Editor</text>
+<text x="628" y="275" font-size="13.5" fill="#e6e6e6">VS Code</text>
+<text x="498" y="302" font-size="13.5" fill="#8a8a8a">Langs</text>
+<text x="628" y="302" font-size="13.5" fill="#e6e6e6">Spanish / English</text>
+<text x="498" y="339" font-size="13" fill="#9aa0a6">— Stack</text>
+<line x1="568" y1="335" x2="952" y2="335" stroke="#262626" stroke-width="1"/>
+<text x="498" y="362" font-size="13.5" fill="#8a8a8a">Frontend</text>
+<text x="628" y="362" font-size="13.5" fill="#e6e6e6">React, JS, HTML/CSS</text>
+<text x="498" y="389" font-size="13.5" fill="#8a8a8a">Backend</text>
+<text x="628" y="389" font-size="13.5" fill="#e6e6e6">Python, Django, MySQL</text>
+<text x="498" y="416" font-size="13.5" fill="#8a8a8a">Systems</text>
+<text x="628" y="416" font-size="13.5" fill="#e6e6e6">C, C++, C#</text>
+<text x="498" y="443" font-size="13.5" fill="#8a8a8a">Mobile</text>
+<text x="628" y="443" font-size="13.5" fill="#e6e6e6">Swift</text>
+<text x="498" y="480" font-size="13" fill="#9aa0a6">— Links</text>
+<line x1="568" y1="476" x2="952" y2="476" stroke="#262626" stroke-width="1"/>
+<text x="498" y="503" font-size="13.5" fill="#8a8a8a">Portfolio</text>
+<text x="628" y="503" font-size="13.5" fill="#e6e6e6">l3chugu1t4.com</text>
+<text x="498" y="530" font-size="13.5" fill="#8a8a8a">GitHub</text>
+<text x="628" y="530" font-size="13.5" fill="#e6e6e6">github.com/l3chugu1t4</text>
+</svg>
