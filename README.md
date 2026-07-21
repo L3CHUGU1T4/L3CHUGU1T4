@@ -38,23 +38,3 @@
 
 
 </div>
-
----
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/leobardo-dejes%C3%BAscarbajal" target="blank">
-  <img src="https://img.shields.io/badge/LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=white&labelColor=1a1a1a" alt="LinkedIn"/>
-</a>
-<a href="https://x.com/L3CHUGU1T4" target="blank">
-  <img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white&labelColor=1a1a1a" alt="X"/>
-</a>
-<a href="https://l3chugu1t4.com/cv.pdf" target="blank">
-  <img src="https://img.shields.io/badge/Resume-000000?style=flat-square&logo=readdotcv&logoColor=white&labelColor=1a1a1a" alt="Resume"/>
-</a>
-
-<br><br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,100:0d0d0d&height=100&section=footer" width="100%"/>
-
-</div>
